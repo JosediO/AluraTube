@@ -35,6 +35,7 @@ export default function Menu({ valorDoFiltro, setValorDoFiltro }) {
     </StyledMenu>
   );
 }
+
 function Logo() {
   return (
     <svg className="logo" viewBox="0 0 454 87" fill="none" xmlns="http://www.w3.org/2000/svg">
