@@ -2,7 +2,7 @@ import React from "react";
 import config from "../config.json";
 import styled from "styled-components";
 import { CSSReset } from "../src/components/CSSReset";
-import Menu from "../src/components";
+import Menu from "../src/components/Menu";
 import { StyledTimeline } from "../src/components/Timeline";
 
 function HomePage() {
@@ -20,7 +20,6 @@ function HomePage() {
                 flex: 1,
                 // backgroundColor: "red",
             }}>
-                <Menu />
                 {/* Prop Drilling */}
                 <Menu valorDoFiltro={valorDoFiltro} setValorDoFiltro={setValorDoFiltro} />
                 <Header />
@@ -58,7 +57,7 @@ const StyledHeader = styled.div`
     }
 `;
 const StyledBanner = styled.div`
-    background-color: black;
+    background-color: blue;
     background-image: url(${({ bg }) => bg});
     /* background-image: url(${config.bg}); */
     height: 230px;
@@ -97,7 +96,7 @@ function Timeline({ searchValue, ...propriedades }) {
                     <section key={playlistName}>
                         <h2>{playlistName}</h2>
                         <div>
-                        {videos
+                            {videos
                                 .filter((video) => {
                                     const titleNormalized = video.title.toLowerCase();
                                     const searchValueNormalized = searchValue.toLowerCase();
