@@ -9,6 +9,7 @@ function HomePage() {
 
     return (
         <>
+            <title>AluraTube</title>
             <div style={{
                 display: "flex",
                 flexDirection: "column",
