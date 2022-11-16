@@ -1,54 +1,51 @@
 {
-    "name": "Josedi Oliveira",
+    "name": "Josedi O.",
     "cargo": "Front-End Developer",
     "github": "JosediO",
     "bg": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "favorites": [
         {
-
+            "title:":"@Alura Cursos",
+            "url":"https://www.youtube.com/c/Alura",
+            "portrait":"https://yt3.ggpht.com/xqhIoXspeX7eqouJvNHl1xqpv9213Pl26ENZbuouXxO2RlDadjsveNXfgnj8GTUk7thFYUkVRg=s176-c-k-c0x00ffffff-no-rj-mo"
+        },
+        {
+            "title:":"@DevMedia",
+            "url":"https://www.youtube.com/c/DevmediaBrasil",
+            "portrait":"https://yt3.ggpht.com/ytc/AMLnZu-UQrGbrHx7sH0Ea0SrUlMQ_HYQcwkQh2gL1w3JkQ=s176-c-k-c0x00ffffff-no-rj-mo"
         }
     ],
     "playlists": {
-        "jogos": [
+        "Musica": [
             {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-                "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+                "title": "Pearl Jam - MTV Unplugged (1992) (Full Concert + Extras)",
+                "url": "https://www.youtube.com/watch?v=VmeZ3kOgIOE",
+                "thumb": "https://i3.ytimg.com/vi/VmeZ3kOgIOE/hqdefault.jpg"
             },
             {
-                "title": "Frostpunk - Neve e Steak tartare",
-                "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-                "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+                "title": "The Police - Live Tokyo Dome 2008 (Full Concert)",
+                "url": "https://youtu.be/reK0S5O_gSI",
+                "thumb": "https://img.youtube.com/vi/reK0S5O_gSI/sddefault.jpg"
             },
             {
-                "title": "Gas Station Simulator - 8 dias sem dormir!",
-                "url": "https://www.youtube.com/watch?v=R1d0DyRDG_Q",
-                "thumb": "https://img.youtube.com/vi/R1d0DyRDG_Q/hqdefault.jpg"
+                "title": "Iron Maiden - RiR 2022(Completo)",
+                "url": "https://youtu.be/Zwo4w12RUv8",
+                "thumb": "https://img.youtube.com/vi/Zwo4w12RUv8/maxresdefault.jpg"
             },
             {
-                "title": "Gartic Phone - Não assista a esse NerdPlayer!",
-                "url": "https://www.youtube.com/watch?v=0oJQUs5oRiM",
-                "thumb": "https://img.youtube.com/vi/0oJQUs5oRiM/hqdefault.jpg"
+                "title": "Gabriel Diniz - DVD - Uma Dose com GD",
+                "url": "https://youtu.be/fwKU24LNpKo",
+                "thumb": "https://img.youtube.com/vi/fwKU24LNpKo/maxresdefault.jpg"
             },
             {
-                "title": "Netdecking Estraga o Magic?",
-                "url": "https://www.youtube.com/watch?v=dXihyhYEsEc",
-                "thumb": "https://img.youtube.com/vi/dXihyhYEsEc/hqdefault.jpg"
+                "title": "🔴SELEÇÃO INESQUECÍVEL - FORRÓ ROMÂNTICO DAS ANTIGAS (AS MELHORES)",
+                "url": "https://youtu.be/uLngz5_SaeQ",
+                "thumb": "https://img.youtube.com/vi/uLngz5_SaeQ/sddefault.jpg"
             },
             {
-                "title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
-                "url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
-                "thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
-            },
-            {
-                "title": "We Were Here Together - Os Enigmas deste Mundo",
-                "url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
-                "thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
-            },
-            {
-                "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
-                "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
-                "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
+                "title":"2 HORAS de Músicas Internacionais Antigas Anos 70 80 e 90 - AS MELHORES #1",
+                "url": "https://www.youtube.com/watch?v=-crt4cHKhrg&ab_channel=M%C3%BAsicasInternacionaisAntigas-ASMELHORES%E2%99%AA",
+                "thumb":"https://img.youtube.com/vi/-crt4cHKhrg/maxresdefault.jpg"
             }
         ],
         "front-end": [
