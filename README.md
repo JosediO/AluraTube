@@ -12,6 +12,6 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/josedi?style=social)
 
-## ✔️ Técnicas e tecnologias utilizadas
+<h3>Tecnologias utilizadas</h3>
 
 - ``Next.js``
